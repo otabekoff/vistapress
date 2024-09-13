@@ -14,7 +14,7 @@ Modern documentation generator built with VueJS to provide a powerful, customiza
 > I even don't know what I am doing. Just experimenting to have something that works.
 
 > [!CAUTION]
-> This is currently W.I.P and not production ready!
+> Currently W.I.P! Doesn't rely on SemVer & Conventional Commits. Once ready will be moved to another repo.
 
 ## Features
 - **Dynamic Pages**: Fetch and render content from JSON, MD, or YAML.
