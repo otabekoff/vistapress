@@ -37,3 +37,23 @@
 .btn:disabled {
   background-color: #ccc;
 }
+```
+
+## Component Styling
+Use scoped styles in each component to maintain modularity:
+
+```vue
+<template>
+  <button class="custom-btn">Click me</button>
+</template>
+
+<style scoped>
+.custom-btn {
+  padding: 10px;
+  background-color: var(--primary-color);
+  border: none;
+  color: white;
+  border-radius: 4px;
+}
+</style>
+```
