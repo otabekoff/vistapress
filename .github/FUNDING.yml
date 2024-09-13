@@ -1,9 +1,14 @@
 # These are the funding platforms supported by GitHub Sponsors.
-# You can specify multiple funding options if you use different platforms.
+# You can specify multiple funding options if you use different platforms
 
-github: your-username
-patreon: your-patreon-id
-open_collective: your-open-collective-id
-ko_fi: your-kofi-id
-tidelift: your-tidelift-id
-custom: https://your-custom-funding-page.com
+github: [otabekoff]
+patreon: otabekoff
+tidelift: npm/otabekoff
+open_collective: otabekoff
+ko_fi: otabekoff
+issuehunt: otabekoff
+polar: otabekoff
+buy_me_a_coffee: otabekoff
+liberapay: otabekoff
+thanks_dev: otabekoff
+custom: ["https://www.paypal.me/otabekoff", "https://otabekoff.github.io"]
