@@ -2,7 +2,7 @@
 Modern documentation generator built with VueJS to provide a powerful, customizable platform for creating documentation sites, with modern look, real-time editing, rich metadata, custom blocks, SEO enhancements, supporting automatic RSS feed generation, and advanced navigation features.
 
 > [!NOTE]
-> Any contibutions are welcomed if you can!
+> Any contibutions are welcomed if you can! Sponsorship doesn't work! All files are for testing!
 
 > [!TIP]
 > I wanted to create a highly customizable documentation + blog + portfolio + simple shop + ADs
