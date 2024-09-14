@@ -1,22 +1,25 @@
 # Frequently Asked Questions (FAQ)
 
 ## What is Vistapress?
+Vistapress is an open-source documentation generator built with VueJS and Capacitor, providing a powerful, customizable platform for creating documentation with real-time editing, rich metadata, and advanced navigation features.
 
-Vistapress is a documentation tool built with Vue.js and Capacitor that aims to provide a more flexible and powerful alternative to Vitepress.
+## How do I install Vistapress?
+To install Vistapress, clone the repository and run `npm install` to install the dependencies. You can then use `npm run dev` to start the development server. See the [README](README.md) for more details.
 
-## How do I get started with Vistapress?
+## What formats can I use for my content?
+Vistapress supports content in JSON, Markdown (MD), and YAML formats. This allows for flexible content creation and metadata handling.
 
-To get started, check out the [Getting Started Guide](link-to-guide) in our documentation.
+## How can I contribute to Vistapress?
+We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute to Vistapress.
 
-## How can I report a bug or request a feature?
+## Does Vistapress support syntax highlighting?
+Yes, Vistapress supports syntax highlighting for code blocks. You can use it to display code snippets in various programming languages.
 
-You can report bugs or request features by [opening an issue](link-to-issues) on our GitHub repository.
+## How can I add custom blocks?
+Vistapress includes custom blocks for notes, warnings, code blocks, and more. You can easily add them via the WYSIWYG editor.
 
-## Where can I find the source code?
+## Where can I report bugs or request features?
+Please open an issue on our [GitHub Issues](https://github.com/your-username/vistapress/issues) page.
 
-The source code for Vistapress is available on our [GitHub repository](link-to-repository).
-
-## Who can I contact for support?
-
-For support, please refer to the [Support page](link-to-support) or open a discussion on our [Discussions board](link-to-discussions).
-
+## What license is Vistapress released under?
+Vistapress is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE.md) file.
